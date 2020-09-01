@@ -4,5 +4,5 @@ setup(
     name="nmn-iwp",
     version="0.1",
     keywords="",
-    packages=["vr", "vr.models"]
+    packages=["vr", "vr.models", "vr.ns_vqa"]
 )
